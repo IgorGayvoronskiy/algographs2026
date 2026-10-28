@@ -1,0 +1,7 @@
+x64/
+*.exe
+*.obj
+.vs/
+checker/
+*.sh
+generator.cpp
